@@ -1,19 +1,19 @@
 # SE Projects – TripleTen
 
 This repository serves as a **portfolio hub** for my Software Engineering projects completed with TripleTen.  
-It centralizes my work in one place for assessment and showcases each project’s objectives, implementation, and outcomes.  
+It centralizes my work in one place for assessment and showcases each project’s objectives, implementation, and outcomes.
 
 ---
 
 ## 📂 Table of Contents
-1. [🌤 Hangout – Weather-Based Activity Recommendation App](#-hangout--weather-based-activity-recommendation-app)  
-2. [👕 WTWR (What to Wear?) – Clothing Recommendation App](#-wtwr-what-to-wear--clothing-recommendation-app)  
-3. [📸 Spots – Image Sharing Social Media Site](#-spots--image-sharing-social-media-site)  
-4. [☕ Coffee Shop Landing Page](#-coffee-shop-landing-page)  
+1. [🌤 Hangout – Weather-Based Activity Recommendation App](#hangout)  
+2. [👕 WTWR (What to Wear?) – Clothing Recommendation App](#wtwr-what-to-wear)  
+3. [📸 Spots – Image Sharing Social Media Site](#spots)  
+4. [☕ Coffee Shop Landing Page](#coffee-shop-landing-page)  
 
 ---
 
-## 🌤 Hangout – Weather-Based Activity Recommendation App  
+## <a id="hangout"></a> 🌤 Hangout – Weather-Based Activity Recommendation App  
 **Links:** [Frontend Demo](https://jessmsang.github.io/hangout_frontend/) · [Frontend Repo](https://github.com/jessmsang/hangout_frontend) · [Backend Repo](https://github.com/jessmsang/hangout-backend)
 
 ### 📌 Introduction
@@ -26,7 +26,8 @@ A full-stack MERN application that recommends activities based on real-time weat
 - Responsive design for seamless mobile/desktop use.  
 
 ### 📸 Screenshots
-*(Insert screenshot here)*  
+![Hangout Screenshot](assets/hangout_screenshot.png)  
+*(Replace `assets/hangout_screenshot.png` with your actual image file)*
 
 ### ✅ Results & Future Work
 - Delivered a smooth, mobile-friendly user experience.  
@@ -34,7 +35,7 @@ A full-stack MERN application that recommends activities based on real-time weat
 
 ---
 
-## 👕 WTWR (What to Wear?) – Clothing Recommendation App  
+## <a id="wtwr-what-to-wear"></a> 👕 WTWR (What to Wear?) – Clothing Recommendation App  
 **Links:** [Demo](https://wtwr-js.jumpingcrab.com/) · [Frontend Repo](https://github.com/jessmsang/se_project_react) · [Backend Repo](https://github.com/jessmsang/se_project_express)
 
 ### 📌 Introduction
@@ -47,54 +48,8 @@ A weather-based clothing recommendation app that helps users decide what to wear
 - Backend deployed on Google Cloud (PM2); tested with Postman.  
 
 ### 📸 Screenshots
-*(Insert screenshot here)*  
+![WTWR Screenshot](assets/wtwr_screenshot.png)  
+*(Replace `assets/wtwr_screenshot.png` with your actual image file)*
 
 ### ✅ Results & Future Work
-- Delivered a functional, secure, and mobile-first application.  
-- Future improvements: wardrobe analytics and outfit history.  
-
----
-
-## 📸 Spots – Image Sharing Social Media Site  
-**Links:** [Demo](https://jessmsang.github.io/se_project_spots/) · [Repo](https://github.com/jessmsang/se_project_spots)
-
-### 📌 Introduction
-A social media app that allows users to share, like, and delete images in real time.
-
-### 🔧 What I Built & How
-- Vanilla JavaScript app with form validation, modals, and interactive features.  
-- Profile editing, image posting, liking, and deletion features.  
-- Accessible, responsive UI with hover states.  
-
-### 📸 Screenshots
-*(Insert screenshot here)*  
-
-### ✅ Results & Future Work
-- Delivered a functional interactive client-side app.  
-- Potential improvement: build a backend for persistent data.  
-
----
-
-## ☕ Coffee Shop Landing Page  
-**Links:** [Demo](https://jessmsang.github.io/se_project_coffeeshop/) · [Repo](https://github.com/jessmsang/se_project_coffeeshop)
-
-### 📌 Introduction
-A responsive single-page site designed as a mock project to showcase frontend development skills.
-
-### 🔧 What I Built & How
-- HTML5, CSS3, and BEM methodology for maintainable code.  
-- Flexbox layouts, custom forms, and CSS animations.  
-- Embedded YouTube video and social media links.  
-
-### 📸 Screenshots
-*(Insert screenshot here)*  
-
-### ✅ Results & Future Work
-- Delivered a polished, responsive marketing-style website.  
-- Future improvement: add backend to process form submissions.  
-
----
-
-## 🎯 Conclusion
-This repository consolidates my projects from the TripleTen Software Engineering program. Each project highlights different aspects of full-stack development — from frontend UI/UX design to backend APIs and deployment.  
-
+- Delivered a
