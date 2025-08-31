@@ -25,10 +25,6 @@ A full-stack MERN application that recommends activities based on real-time weat
 - Express/Node.js + MongoDB backend for authentication, CRUD operations, and persistent user data.  
 - Responsive design for seamless mobile/desktop use.  
 
-### 📸 Screenshots
-![Hangout Screenshot](assets/hangout_screenshot.png)  
-*(Replace `assets/hangout_screenshot.png` with your actual image file)*
-
 ### ✅ Results & Future Work
 - Delivered a smooth, mobile-friendly user experience.  
 - Future improvement: integrate AI to generate personalized activity suggestions.  
@@ -47,10 +43,6 @@ A weather-based clothing recommendation app that helps users decide what to wear
 - Integrated **OpenWeather API** to power clothing recommendations.  
 - Backend deployed on Google Cloud (PM2); tested with Postman.  
 
-### 📸 Screenshots
-![WTWR Screenshot](assets/wtwr_screenshot.png)  
-*(Replace `assets/wtwr_screenshot.png` with your actual image file)*
-
 ### ✅ Results & Future Work
 - Delivered a functional, secure, and mobile-first application.  
 - Future improvements: wardrobe analytics and outfit history.  
@@ -68,9 +60,6 @@ A social media app that allows users to share, like, and delete images in real t
 - Profile editing, image posting, liking, and deletion features.  
 - Accessible, responsive UI with hover states.  
 
-### 📸 Screenshots
-![Spots Screenshot](assets/spots_screenshot.png)  
-*(Replace `assets/spots_screenshot.png` with your actual image file)*
 
 ### ✅ Results & Future Work
 - Delivered a functional interactive client-side app.  
@@ -89,9 +78,6 @@ A responsive single-page site designed as a mock project to showcase frontend de
 - Flexbox layouts, custom forms, and CSS animations.  
 - Embedded YouTube video and social media links.  
 
-### 📸 Screenshots
-![Coffee Shop Screenshot](assets/coffee_screenshot.png)  
-*(Replace `assets/coffee_screenshot.png` with your actual image file)*
 
 ### ✅ Results & Future Work
 - Delivered a polished, responsive marketing-style website.  
