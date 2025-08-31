@@ -7,7 +7,7 @@ It centralizes my work in one place for assessment and showcases each project’
 
 ## 📂 Table of Contents
 1. [🌤 Hangout – Weather-Based Activity Recommendation App](#hangout)  
-2. [👕 WTWR (What to Wear?) – Clothing Recommendation App](#wtwr-what-to-wear)  
+2. [👕 WTWR (What to Wear?) – Clothing Recommendation App](#wtwr)  
 3. [📸 Spots – Image Sharing Social Media Site](#spots)  
 4. [☕ Coffee Shop Landing Page](#coffee-shop-landing-page)  
 
@@ -35,7 +35,7 @@ A full-stack MERN application that recommends activities based on real-time weat
 
 ---
 
-## <a id="wtwr-what-to-wear"></a> 👕 WTWR (What to Wear?) – Clothing Recommendation App  
+## <a id="wtwr"></a> 👕 WTWR (What to Wear?) – Clothing Recommendation App  
 **Links:** [Demo](https://wtwr-js.jumpingcrab.com/) · [Frontend Repo](https://github.com/jessmsang/se_project_react) · [Backend Repo](https://github.com/jessmsang/se_project_express)
 
 ### 📌 Introduction
@@ -52,4 +52,52 @@ A weather-based clothing recommendation app that helps users decide what to wear
 *(Replace `assets/wtwr_screenshot.png` with your actual image file)*
 
 ### ✅ Results & Future Work
-- Delivered a
+- Delivered a functional, secure, and mobile-first application.  
+- Future improvements: wardrobe analytics and outfit history.  
+
+---
+
+## <a id="spots"></a> 📸 Spots – Image Sharing Social Media Site  
+**Links:** [Demo](https://jessmsang.github.io/se_project_spots/) · [Repo](https://github.com/jessmsang/se_project_spots)
+
+### 📌 Introduction
+A social media app that allows users to share, like, and delete images in real time.
+
+### 🔧 What I Built & How
+- Vanilla JavaScript app with form validation, modals, and interactive features.  
+- Profile editing, image posting, liking, and deletion features.  
+- Accessible, responsive UI with hover states.  
+
+### 📸 Screenshots
+![Spots Screenshot](assets/spots_screenshot.png)  
+*(Replace `assets/spots_screenshot.png` with your actual image file)*
+
+### ✅ Results & Future Work
+- Delivered a functional interactive client-side app.  
+- Potential improvement: build a backend for persistent data.  
+
+---
+
+## <a id="coffee-shop-landing-page"></a> ☕ Coffee Shop Landing Page  
+**Links:** [Demo](https://jessmsang.github.io/se_project_coffeeshop/) · [Repo](https://github.com/jessmsang/se_project_coffeeshop)
+
+### 📌 Introduction
+A responsive single-page site designed as a mock project to showcase frontend development skills.
+
+### 🔧 What I Built & How
+- HTML5, CSS3, and BEM methodology for maintainable code.  
+- Flexbox layouts, custom forms, and CSS animations.  
+- Embedded YouTube video and social media links.  
+
+### 📸 Screenshots
+![Coffee Shop Screenshot](assets/coffee_screenshot.png)  
+*(Replace `assets/coffee_screenshot.png` with your actual image file)*
+
+### ✅ Results & Future Work
+- Delivered a polished, responsive marketing-style website.  
+- Future improvement: add backend to process form submissions.  
+
+---
+
+## 🎯 Conclusion
+This repository consolidates my projects from the TripleTen Software Engineering program. Each project highlights different aspects of full-stack development — from frontend UI/UX design to backend APIs and deployment.  
