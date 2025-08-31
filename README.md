@@ -13,11 +13,13 @@ It centralizes my work in one place for assessment and showcases each project’
 
 ---
 
-## <a id="hangout"></a> 🌤 Hangout – Weather-Based Activity Recommendation App  
+## <a id="hangout"></a> 🌤 Hangout – Weather-Based Activity Recommendation App 
 **Links:** [Frontend Demo](https://jessmsang.github.io/hangout_frontend/) · [Frontend Repo](https://github.com/jessmsang/hangout_frontend) · [Backend Repo](https://github.com/jessmsang/hangout-backend)
 
 ### 📌 Introduction
 A full-stack MERN application that recommends activities based on real-time weather data, with filtering and personalization features.
+
+<img width="1265" height="654" alt="Screen Shot 2025-08-31 at 09 57 34" src="https://github.com/user-attachments/assets/e9cd8d07-8085-406f-9fa7-4bd4a4ead705" />
 
 ### 🔧 What I Built & How
 - React frontend integrating the **OpenWeather API**.  
@@ -33,6 +35,9 @@ A full-stack MERN application that recommends activities based on real-time weat
 ### 📌 Introduction
 A weather-based clothing recommendation app that helps users decide what to wear based on real-time conditions.
 
+<img width="1262" height="654" alt="Screen Shot 2025-08-31 at 09 57 58" src="https://github.com/user-attachments/assets/50cb0bc8-efab-4d14-9405-b7a6f7c071df" />
+
+
 ### 🔧 What I Built & How
 - Full-stack **MERN** app with RESTful API integration.  
 - JWT authentication for secure login/registration and profile management.  
@@ -47,6 +52,9 @@ A weather-based clothing recommendation app that helps users decide what to wear
 ### 📌 Introduction
 A social media app that allows users to share, like, and delete images in real time.
 
+<img width="1262" height="653" alt="Screen Shot 2025-08-31 at 09 58 19" src="https://github.com/user-attachments/assets/b9655189-0651-4b61-afbb-c14f452ae08c" />
+
+
 ### 🔧 What I Built & How
 - Vanilla JavaScript app with form validation, modals, and interactive features.  
 - Profile editing, image posting, liking, and deletion features.  
@@ -59,6 +67,8 @@ A social media app that allows users to share, like, and delete images in real t
 
 ### 📌 Introduction
 A responsive single-page site designed as a mock project to showcase frontend development skills.
+
+<img width="1264" height="654" alt="Screen Shot 2025-08-31 at 09 59 01" src="https://github.com/user-attachments/assets/91648321-2a79-4519-8bb2-36d308db41fc" />
 
 ### 🔧 What I Built & How
 - HTML5, CSS3, and BEM methodology for maintainable code.  
