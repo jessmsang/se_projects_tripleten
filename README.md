@@ -78,7 +78,7 @@ A social media app that allows users to share, like, and delete images in real t
 ### 📌 Introduction
 A responsive single-page site designed as a mock project to showcase frontend development skills.
 
-<img width="1264" height="654" alt="Coffee Shop landing page with featured products" src="https://github.com/user-attachments/assets/91648321-2a79-4519-8bb2-36d308db41fc" />
+<img width="1264" height="654" alt="Coffee Shop landing page" src="https://github.com/user-attachments/assets/91648321-2a79-4519-8bb2-36d308db41fc" />
 
 ### 🔧 What I Built & How
 - HTML5, CSS3, and BEM methodology for maintainable code.  
