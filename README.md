@@ -23,11 +23,7 @@ A full-stack MERN application that recommends activities based on real-time weat
 - React frontend integrating the **OpenWeather API**.  
 - Dynamic filters (season, location, category, group size, cost) and user features (add, like, complete).  
 - Express/Node.js + MongoDB backend for authentication, CRUD operations, and persistent user data.  
-- Responsive design for seamless mobile/desktop use.  
-
-### ✅ Results & Future Work
-- Delivered a smooth, mobile-friendly user experience.  
-- Future improvement: integrate AI to generate personalized activity suggestions.  
+- Responsive design for seamless mobile/desktop use.   
 
 ---
 
@@ -41,11 +37,7 @@ A weather-based clothing recommendation app that helps users decide what to wear
 - Full-stack **MERN** app with RESTful API integration.  
 - JWT authentication for secure login/registration and profile management.  
 - Integrated **OpenWeather API** to power clothing recommendations.  
-- Backend deployed on Google Cloud (PM2); tested with Postman.  
-
-### ✅ Results & Future Work
-- Delivered a functional, secure, and mobile-first application.  
-- Future improvements: wardrobe analytics and outfit history.  
+- Backend deployed on Google Cloud (PM2); tested with Postman.   
 
 ---
 
@@ -60,11 +52,6 @@ A social media app that allows users to share, like, and delete images in real t
 - Profile editing, image posting, liking, and deletion features.  
 - Accessible, responsive UI with hover states.  
 
-
-### ✅ Results & Future Work
-- Delivered a functional interactive client-side app.  
-- Potential improvement: build a backend for persistent data.  
-
 ---
 
 ## <a id="coffee-shop-landing-page"></a> ☕ Coffee Shop Landing Page  
@@ -77,11 +64,6 @@ A responsive single-page site designed as a mock project to showcase frontend de
 - HTML5, CSS3, and BEM methodology for maintainable code.  
 - Flexbox layouts, custom forms, and CSS animations.  
 - Embedded YouTube video and social media links.  
-
-
-### ✅ Results & Future Work
-- Delivered a polished, responsive marketing-style website.  
-- Future improvement: add backend to process form submissions.  
 
 ---
 
