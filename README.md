@@ -19,13 +19,17 @@ It centralizes my work in one place for assessment and showcases each project’
 ### 📌 Introduction
 A full-stack MERN application that recommends activities based on real-time weather data, with filtering and personalization features.
 
-<img width="1265" height="654" alt="Screen Shot 2025-08-31 at 09 57 34" src="https://github.com/user-attachments/assets/e9cd8d07-8085-406f-9fa7-4bd4a4ead705" />
+<img width="1265" height="654" alt="Hangout app dashboard with activity recommendations" src="https://github.com/user-attachments/assets/e9cd8d07-8085-406f-9fa7-4bd4a4ead705" />
 
 ### 🔧 What I Built & How
 - React frontend integrating the **OpenWeather API**.  
 - Dynamic filters (season, location, category, group size, cost) and user features (add, like, complete).  
 - Express/Node.js + MongoDB backend for authentication, CRUD operations, and persistent user data.  
 - Responsive design for seamless mobile/desktop use.   
+
+### ✅ Results & Future Work
+- Successfully delivers personalized activity recommendations to users.  
+- Future improvements: integrate AI-driven suggestions and expand the activity database.
 
 ---
 
@@ -35,14 +39,17 @@ A full-stack MERN application that recommends activities based on real-time weat
 ### 📌 Introduction
 A weather-based clothing recommendation app that helps users decide what to wear based on real-time conditions.
 
-<img width="1262" height="654" alt="Screen Shot 2025-08-31 at 09 57 58" src="https://github.com/user-attachments/assets/50cb0bc8-efab-4d14-9405-b7a6f7c071df" />
-
+<img width="1262" height="654" alt="WTWR app dashboard showing clothing recommendations" src="https://github.com/user-attachments/assets/50cb0bc8-efab-4d14-9405-b7a6f7c071df" />
 
 ### 🔧 What I Built & How
 - Full-stack **MERN** app with RESTful API integration.  
 - JWT authentication for secure login/registration and profile management.  
 - Integrated **OpenWeather API** to power clothing recommendations.  
 - Backend deployed on Google Cloud (PM2); tested with Postman.   
+
+### ✅ Results & Future Work
+- Provides users with accurate clothing suggestions based on real-time weather.  
+- Future improvements: wardrobe analytics, outfit history tracking, and AI-driven recommendations.
 
 ---
 
@@ -52,13 +59,16 @@ A weather-based clothing recommendation app that helps users decide what to wear
 ### 📌 Introduction
 A social media app that allows users to share, like, and delete images in real time.
 
-<img width="1262" height="653" alt="Screen Shot 2025-08-31 at 09 58 19" src="https://github.com/user-attachments/assets/b9655189-0651-4b61-afbb-c14f452ae08c" />
-
+<img width="1262" height="653" alt="Spots app dashboard showing image sharing feed" src="https://github.com/user-attachments/assets/b9655189-0651-4b61-afbb-c14f452ae08c" />
 
 ### 🔧 What I Built & How
 - Vanilla JavaScript app with form validation, modals, and interactive features.  
 - Profile editing, image posting, liking, and deletion features.  
 - Accessible, responsive UI with hover states.  
+
+### ✅ Results & Future Work
+- Successfully supports real-time image sharing and user interactions.  
+- Future improvements: add backend for persistent storage and notifications.
 
 ---
 
@@ -68,12 +78,16 @@ A social media app that allows users to share, like, and delete images in real t
 ### 📌 Introduction
 A responsive single-page site designed as a mock project to showcase frontend development skills.
 
-<img width="1264" height="654" alt="Screen Shot 2025-08-31 at 09 59 01" src="https://github.com/user-attachments/assets/91648321-2a79-4519-8bb2-36d308db41fc" />
+<img width="1264" height="654" alt="Coffee Shop landing page with featured products" src="https://github.com/user-attachments/assets/91648321-2a79-4519-8bb2-36d308db41fc" />
 
 ### 🔧 What I Built & How
 - HTML5, CSS3, and BEM methodology for maintainable code.  
 - Flexbox layouts, custom forms, and CSS animations.  
 - Embedded YouTube video and social media links.  
+
+### ✅ Results & Future Work
+- Delivered a polished, responsive marketing-style website.  
+- Future improvements: add form submission functionality and interactive menu features.
 
 ---
 
